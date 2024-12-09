@@ -1,0 +1,1203 @@
+[
+    {
+      "country_name": "Afganistán",
+      "iso2": "AF",
+      "e164_code": 93
+    },
+    {
+      "country_name": "Albania",
+      "iso2": "AL",
+      "e164_code": 355
+    },
+    {
+      "country_name": "Argelia",
+      "iso2": "DZ",
+      "e164_code": 213
+    },
+    {
+      "country_name": "Samoa Americana",
+      "iso2": "AS",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Andorra",
+      "iso2": "AD",
+      "e164_code": 376
+    },
+    {
+      "country_name": "Angola",
+      "iso2": "AO",
+      "e164_code": 244
+    },
+    {
+      "country_name": "Anguila",
+      "iso2": "AI",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Antártida",
+      "iso2": "AQ",
+      "e164_code": 672
+    },
+    {
+      "country_name": "Antigua y Barbuda",
+      "iso2": "AG",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Argentina",
+      "iso2": "AR",
+      "e164_code": 54
+    },
+    {
+      "country_name": "Armenia",
+      "iso2": "AM",
+      "e164_code": 374
+    },
+    {
+      "country_name": "Aruba",
+      "iso2": "AW",
+      "e164_code": 297
+    },
+    {
+      "country_name": "Australia",
+      "iso2": "AU",
+      "e164_code": 61
+    },
+    {
+      "country_name": "Austria",
+      "iso2": "AT",
+      "e164_code": 43
+    },
+    {
+      "country_name": "Azerbaiyán",
+      "iso2": "AZ",
+      "e164_code": 994
+    },
+    {
+      "country_name": "Bahamas",
+      "iso2": "BS",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Bahréin",
+      "iso2": "BH",
+      "e164_code": 973
+    },
+    {
+      "country_name": "Bangladesh",
+      "iso2": "BD",
+      "e164_code": 880
+    },
+    {
+      "country_name": "Barbados",
+      "iso2": "BB",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Bielorrusia",
+      "iso2": "BY",
+      "e164_code": 375
+    },
+    {
+      "country_name": "Bélgica",
+      "iso2": "BE",
+      "e164_code": 32
+    },
+    {
+      "country_name": "Belice",
+      "iso2": "BZ",
+      "e164_code": 501
+    },
+    {
+      "country_name": "Benín",
+      "iso2": "BJ",
+      "e164_code": 229
+    },
+    {
+      "country_name": "Bermudas",
+      "iso2": "BM",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Bután",
+      "iso2": "BT",
+      "e164_code": 975
+    },
+    {
+      "country_name": "Bolivia",
+      "iso2": "BO",
+      "e164_code": 591
+    },
+    {
+      "country_name": "Bosnia y Herzegovina",
+      "iso2": "BA",
+      "e164_code": 387
+    },
+    {
+      "country_name": "Botsuana",
+      "iso2": "BW",
+      "e164_code": 267
+    },
+    {
+      "country_name": "Brasil",
+      "iso2": "BR",
+      "e164_code": 55
+    },
+    {
+      "country_name": "Territorio Británico del Océano Índico",
+      "iso2": "IO",
+      "e164_code": 246
+    },
+    {
+      "country_name": "Islas Vírgenes Británicas",
+      "iso2": "VG",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Brunéi",
+      "iso2": "BN",
+      "e164_code": 673
+    },
+    {
+      "country_name": "Bulgaria",
+      "iso2": "BG",
+      "e164_code": 359
+    },
+    {
+      "country_name": "Burkina Faso",
+      "iso2": "BF",
+      "e164_code": 226
+    },
+    {
+      "country_name": "Burundi",
+      "iso2": "BI",
+      "e164_code": 257
+    },
+    {
+      "country_name": "Camboya",
+      "iso2": "KH",
+      "e164_code": 855
+    },
+    {
+      "country_name": "Camerún",
+      "iso2": "CM",
+      "e164_code": 237
+    },
+    {
+      "country_name": "Canadá",
+      "iso2": "CA",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Cabo Verde",
+      "iso2": "CV",
+      "e164_code": 238
+    },
+    {
+      "country_name": "Islas Caimán",
+      "iso2": "KY",
+      "e164_code": 1
+    },
+    {
+      "country_name": "República Centroafricana",
+      "iso2": "CF",
+      "e164_code": 236
+    },
+    {
+      "country_name": "Chad",
+      "iso2": "TD",
+      "e164_code": 235
+    },
+    {
+      "country_name": "Chile",
+      "iso2": "CL",
+      "e164_code": 56
+    },
+    {
+      "country_name": "China",
+      "iso2": "CN",
+      "e164_code": 86
+    },
+    {
+      "country_name": "Isla de Navidad",
+      "iso2": "CX",
+      "e164_code": 61
+    },
+    {
+      "country_name": "Islas Cocos",
+      "iso2": "CC",
+      "e164_code": 61
+    },
+    {
+      "country_name": "Colombia",
+      "iso2": "CO",
+      "e164_code": 57
+    },
+    {
+      "country_name": "Comoras",
+      "iso2": "KM",
+      "e164_code": 269
+    },
+    {
+      "country_name": "Islas Cook",
+      "iso2": "CK",
+      "e164_code": 682
+    },
+    {
+      "country_name": "Costa Rica",
+      "iso2": "CR",
+      "e164_code": 506
+    },
+    {
+      "country_name": "Croacia",
+      "iso2": "HR",
+      "e164_code": 385
+    },
+    {
+      "country_name": "Cuba",
+      "iso2": "CU",
+      "e164_code": 53
+    },
+    {
+      "country_name": "Curazao",
+      "iso2": "CW",
+      "e164_code": 599
+    },
+    {
+      "country_name": "Chipre",
+      "iso2": "CY",
+      "e164_code": 357
+    },
+    {
+      "country_name": "República Checa",
+      "iso2": "CZ",
+      "e164_code": 420
+    },
+    {
+      "country_name": "República Democrática del Congo",
+      "iso2": "CD",
+      "e164_code": 243
+    },
+    {
+      "country_name": "Dinamarca",
+      "iso2": "DK",
+      "e164_code": 45
+    },
+    {
+      "country_name": "Yibuti",
+      "iso2": "DJ",
+      "e164_code": 253
+    },
+    {
+      "country_name": "Dominica",
+      "iso2": "DM",
+      "e164_code": 1
+    },
+    {
+      "country_name": "República Dominicana",
+      "iso2": "DO",
+      "e164_code": 1
+    },
+    {
+      "country_name": "Timor Oriental",
+      "iso2": "TL",
+      "e164_code": 670
+    },
+    {
+      "country_name": "Ecuador",
+      "iso2": "EC",
+      "e164_code": 593
+    },
+    {
+      "country_name": "Egipto",
+      "iso2": "EG",
+      "e164_code": 20
+    },
+    {
+      "country_name": "El Salvador",
+      "iso2": "SV",
+      "e164_code": 503
+    },
+    {
+      "country_name": "Guinea Ecuatorial",
+      "iso2": "GQ",
+      "e164_code": 240
+    },
+    {
+      "country_name": "Eritrea",
+      "iso2": "ER",
+      "e164_code": 291
+    },
+    {
+      "country_name": "Estonia",
+      "iso2": "EE",
+      "e164_code": 372
+    },
+    {
+      "country_name": "Etiopía",
+      "iso2": "ET",
+      "e164_code": 251
+    },
+    {
+      "country_name": "Islas Malvinas",
+      "iso2": "FK",
+      "e164_code": 500
+    },
+    {
+      "country_name": "Islas Feroe",
+      "iso2": "FO",
+      "e164_code": 298
+    },
+    {
+      "country_name": "Fiyi",
+      "iso2": "FJ",
+      "e164_code": 679
+    },
+    {
+      "country_name": "Finlandia",
+      "iso2": "FI",
+      "e164_code": 358
+    },
+    {
+      "country_name": "Francia",
+      "iso2": "FR",
+      "e164_code": 33
+    },
+    {
+      "country_name": "Polinesia Francesa",
+      "iso2": "PF",
+      "e164_code": 689
+    },
+    {
+      "country_name": "Gabón",
+      "iso2": "GA",
+      "e164_code": 241
+    },
+    {
+      "country_name": "Gambia",
+      "iso2": "GM",
+      "e164_code": 220
+    },
+    {
+      "country_name": "Georgia",
+      "iso2": "GE",
+      "e164_code": 995
+    },
+    {
+      "country_name": "Alemania",
+      "iso2": "DE",
+      "e164_code": 49
+    },
+    {
+      "country_name": "Ghana",
+      "iso2": "GH",
+      "e164_code": 233
+    },
+    {
+      "country_name": "Gibraltar",
+      "iso2": "GI",
+      "e164_code": 350
+    },
+    {
+        "country_name": "Grecia",
+        "iso2": "GR",
+        "e164_code": 30
+    },
+    {
+        "country_name": "Groenlandia",
+        "iso2": "GL",
+        "e164_code": 299
+    },
+    {
+        "country_name": "Granada",
+        "iso2": "GD",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Guam",
+        "iso2": "GU",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Guatemala",
+        "iso2": "GT",
+        "e164_code": 502
+    },
+    {
+        "country_name": "Guernsey",
+        "iso2": "GG",
+        "e164_code": 44
+    },
+    {
+        "country_name": "Guinea",
+        "iso2": "GN",
+        "e164_code": 224
+    },
+    {
+        "country_name": "Guinea-Bisáu",
+        "iso2": "GW",
+        "e164_code": 245
+    },
+    {
+        "country_name": "Guyana",
+        "iso2": "GY",
+        "e164_code": 592
+    },
+    {
+        "country_name": "Haití",
+        "iso2": "HT",
+        "e164_code": 509
+    },
+    {
+        "country_name": "Honduras",
+        "iso2": "HN",
+        "e164_code": 504
+    },
+    {
+        "country_name": "Hong Kong",
+        "iso2": "HK",
+        "e164_code": 852
+    },
+    {
+        "country_name": "Hungría",
+        "iso2": "HU",
+        "e164_code": 36
+    },
+    {
+        "country_name": "Islandia",
+        "iso2": "IS",
+        "e164_code": 354
+    },
+    {
+        "country_name": "India",
+        "iso2": "IN",
+        "e164_code": 91
+    },
+    {
+        "country_name": "Indonesia",
+        "iso2": "ID",
+        "e164_code": 62
+    },
+    {
+        "country_name": "Irán",
+        "iso2": "IR",
+        "e164_code": 98
+    },
+    {
+        "country_name": "Irak",
+        "iso2": "IQ",
+        "e164_code": 964
+    },
+    {
+        "country_name": "Irlanda",
+        "iso2": "IE",
+        "e164_code": 353
+    },
+    {
+        "country_name": "Isla de Man",
+        "iso2": "IM",
+        "e164_code": 44
+    },
+    {
+        "country_name": "Israel",
+        "iso2": "IL",
+        "e164_code": 972
+    },
+    {
+        "country_name": "Italia",
+        "iso2": "IT",
+        "e164_code": 39
+    },
+    {
+        "country_name": "Costa de Marfil",
+        "iso2": "CI",
+        "e164_code": 225
+    },
+    {
+        "country_name": "Jamaica",
+        "iso2": "JM",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Japón",
+        "iso2": "JP",
+        "e164_code": 81
+    },
+    {
+        "country_name": "Jersey",
+        "iso2": "JE",
+        "e164_code": 44
+    },
+    {
+        "country_name": "Jordania",
+        "iso2": "JO",
+        "e164_code": 962
+    },
+    {
+        "country_name": "Kazajistán",
+        "iso2": "KZ",
+        "e164_code": 7
+    },
+    {
+        "country_name": "Kenia",
+        "iso2": "KE",
+        "e164_code": 254
+    },
+    {
+        "country_name": "Kiribati",
+        "iso2": "KI",
+        "e164_code": 686
+    },
+    {
+        "country_name": "Kosovo",
+        "iso2": "XK",
+        "e164_code": 383
+    },
+    {
+        "country_name": "Kuwait",
+        "iso2": "KW",
+        "e164_code": 965
+    },
+    {
+        "country_name": "Kirguistán",
+        "iso2": "KG",
+        "e164_code": 996
+    },
+    {
+        "country_name": "Laos",
+        "iso2": "LA",
+        "e164_code": 856
+    },
+    {
+        "country_name": "Letonia",
+        "iso2": "LV",
+        "e164_code": 371
+    },
+    {
+        "country_name": "Líbano",
+        "iso2": "LB",
+        "e164_code": 961
+    },
+    {
+        "country_name": "Lesoto",
+        "iso2": "LS",
+        "e164_code": 266
+    },
+    {
+        "country_name": "Liberia",
+        "iso2": "LR",
+        "e164_code": 231
+    },
+    {
+        "country_name": "Libia",
+        "iso2": "LY",
+        "e164_code": 218
+    },
+    {
+        "country_name": "Liechtenstein",
+        "iso2": "LI",
+        "e164_code": 423
+    },
+    {
+        "country_name": "Lituania",
+        "iso2": "LT",
+        "e164_code": 370
+    },
+    {
+        "country_name": "Luxemburgo",
+        "iso2": "LU",
+        "e164_code": 352
+    },
+    {
+        "country_name": "Macau",
+        "iso2": "MO",
+        "e164_code": 853
+    },
+    {
+        "country_name": "Macedonia",
+        "iso2": "MK",
+        "e164_code": 389
+    },
+    {
+        "country_name": "Madagascar",
+        "iso2": "MG",
+        "e164_code": 261
+    },
+    {
+        "country_name": "Malawi",
+        "iso2": "MW",
+        "e164_code": 265
+    },
+    {
+        "country_name": "Malasia",
+        "iso2": "MY",
+        "e164_code": 60
+    },
+    {
+        "country_name": "Maldivas",
+        "iso2": "MV",
+        "e164_code": 960
+    },
+    {
+        "country_name": "Malí",
+        "iso2": "ML",
+        "e164_code": 223
+    },
+    {
+        "country_name": "Malta",
+        "iso2": "MT",
+        "e164_code": 356
+    },
+    {
+        "country_name": "Islas Marshall",
+        "iso2": "MH",
+        "e164_code": 692
+    },
+    {
+        "country_name": "Mauritania",
+        "iso2": "MR",
+        "e164_code": 222
+    },
+    {
+        "country_name": "Mauricio",
+        "iso2": "MU",
+        "e164_code": 230
+    },
+    {
+        "country_name": "Mayotte",
+        "iso2": "YT",
+        "e164_code": 262
+    },
+    {
+        "country_name": "México",
+        "iso2": "MX",
+        "e164_code": 52
+    },
+    {
+        "country_name": "Micronesia",
+        "iso2": "FM",
+        "e164_code": 691
+    },
+    {
+        "country_name": "Moldavia",
+        "iso2": "MD",
+        "e164_code": 373
+    },
+    {
+        "country_name": "Mónaco",
+        "iso2": "MC",
+        "e164_code": 377
+    },
+    {
+        "country_name": "Mongolia",
+        "iso2": "MN",
+        "e164_code": 976
+    },
+    {
+        "country_name": "Montenegro",
+        "iso2": "ME",
+        "e164_code": 382
+    },
+    {
+        "country_name": "Montserrat",
+        "iso2": "MS",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Marruecos",
+        "iso2": "MA",
+        "e164_code": 212
+    },
+    {
+        "country_name": "Mozambique",
+        "iso2": "MZ",
+        "e164_code": 258
+    },
+    {
+        "country_name": "Myanmar",
+        "iso2": "MM",
+        "e164_code": 95
+    },
+    {
+        "country_name": "Namibia",
+        "iso2": "NA",
+        "e164_code": 264
+    },
+    {
+        "country_name": "Nauru",
+        "iso2": "NR",
+        "e164_code": 674
+    },
+    {
+        "country_name": "Nepal",
+        "iso2": "NP",
+        "e164_code": 977
+    },
+    {
+        "country_name": "Países Bajos",
+        "iso2": "NL",
+        "e164_code": 31
+    },
+    {
+        "country_name": "Antillas Neerlandesas",
+        "iso2": "AN",
+        "e164_code": 599
+    },
+    {
+        "country_name": "Nueva Caledonia",
+        "iso2": "NC",
+        "e164_code": 687
+    },
+    {
+        "country_name": "Nueva Zelanda",
+        "iso2": "NZ",
+        "e164_code": 64
+    },
+    {
+        "country_name": "Nicaragua",
+        "iso2": "NI",
+        "e164_code": 505
+    },
+    {
+        "country_name": "Níger",
+        "iso2": "NE",
+        "e164_code": 227
+    },
+    {
+        "country_name": "Nigeria",
+        "iso2": "NG",
+        "e164_code": 234
+    },
+    {
+        "country_name": "Niue",
+        "iso2": "NU",
+        "e164_code": 683
+    },
+    {
+        "country_name": "Corea del Norte",
+        "iso2": "KP",
+        "e164_code": 850
+    },
+    {
+        "country_name": "Islas Marianas del Norte",
+        "iso2": "MP",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Noruega",
+        "iso2": "NO",
+        "e164_code": 47
+    },
+    {
+        "country_name": "Omán",
+        "iso2": "OM",
+        "e164_code": 968
+    },
+    {
+        "country_name": "Pakistán",
+        "iso2": "PK",
+        "e164_code": 92
+    },
+    {
+        "country_name": "Palau",
+        "iso2": "PW",
+        "e164_code": 680
+    },
+    {
+        "country_name": "Palestina",
+        "iso2": "PS",
+        "e164_code": 970
+    },
+    {
+        "country_name": "Panamá",
+        "iso2": "PA",
+        "e164_code": 507
+    },
+    {
+        "country_name": "Papúa Nueva Guinea",
+        "iso2": "PG",
+        "e164_code": 675
+    },
+    {
+        "country_name": "Paraguay",
+        "iso2": "PY",
+        "e164_code": 595
+    },
+    {
+        "country_name": "Perú",
+        "iso2": "PE",
+        "e164_code": 51
+    },
+    {
+        "country_name": "Filipinas",
+        "iso2": "PH",
+        "e164_code": 63
+    },
+    {
+        "country_name": "Pitcairn",
+        "iso2": "PN",
+        "e164_code": 64
+    },
+    {
+        "country_name": "Polonia",
+        "iso2": "PL",
+        "e164_code": 48
+    },
+    {
+        "country_name": "Portugal",
+        "iso2": "PT",
+        "e164_code": 351
+    },
+    {
+        "country_name": "Puerto Rico",
+        "iso2": "PR",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Catar",
+        "iso2": "QA",
+        "e164_code": 974
+    },
+    {
+        "country_name": "República del Congo",
+        "iso2": "CG",
+        "e164_code": 242
+    },
+    {
+        "country_name": "Reunión",
+        "iso2": "RE",
+        "e164_code": 262
+    },
+    {
+        "country_name": "Rumanía",
+        "iso2": "RO",
+        "e164_code": 40
+    },
+    {
+        "country_name": "Rusia",
+        "iso2": "RU",
+        "e164_code": 7
+    },
+    {
+        "country_name": "Ruanda",
+        "iso2": "RW",
+        "e164_code": 250
+    },
+    {
+        "country_name": "San Bartolomé",
+        "iso2": "BL",
+        "e164_code": 590
+    },
+    {
+        "country_name": "Santa Helena",
+        "iso2": "SH",
+        "e164_code": 290
+    },
+    {
+        "country_name": "San Cristóbal y Nieves",
+        "iso2": "KN",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Santa Lucía",
+        "iso2": "LC",
+        "e164_code": 1
+    },
+    {
+        "country_name": "San Martín",
+        "iso2": "MF",
+        "e164_code": 1
+    },
+    {
+        "country_name": "San Pedro y Miquelón",
+        "iso2": "PM",
+        "e164_code": 508
+    },
+    {
+        "country_name": "San Vicente y las Granadinas",
+        "iso2": "VC",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Samoa",
+        "iso2": "WS",
+        "e164_code": 685
+    },
+    {
+        "country_name": "San Marino",
+        "iso2": "SM",
+        "e164_code": 378
+    },
+    {
+        "country_name": "Santo Tomé y Príncipe",
+        "iso2": "ST",
+        "e164_code": 239
+    },
+    {
+        "country_name": "Arabia Saudita",
+        "iso2": "SA",
+        "e164_code": 966
+    },
+    {
+        "country_name": "Senegal",
+        "iso2": "SN",
+        "e164_code": 221
+    },
+    {
+        "country_name": "Serbia",
+        "iso2": "RS",
+        "e164_code": 381
+    },
+    {
+        "country_name": "Seychelles",
+        "iso2": "SC",
+        "e164_code": 248
+    },
+    {
+        "country_name": "Sierra Leona",
+        "iso2": "SL",
+        "e164_code": 232
+    },
+    {
+        "country_name": "Singapur",
+        "iso2": "SG",
+        "e164_code": 65
+    },
+    {
+        "country_name": "Sint Maarten",
+        "iso2": "SX",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Eslovaquia",
+        "iso2": "SK",
+        "e164_code": 421
+    },
+    {
+        "country_name": "Eslovenia",
+        "iso2": "SI",
+        "e164_code": 386
+    },
+    {
+        "country_name": "Islas Salomón",
+        "iso2": "SB",
+        "e164_code": 677
+    },
+    {
+        "country_name": "Somalia",
+        "iso2": "SO",
+        "e164_code": 252
+    },
+    {
+        "country_name": "Sudáfrica",
+        "iso2": "ZA",
+        "e164_code": 27
+    },
+    {
+        "country_name": "Corea del Sur",
+        "iso2": "KR",
+        "e164_code": 82
+    },
+    {
+        "country_name": "Sudán del Sur",
+        "iso2": "SS",
+        "e164_code": 211
+    },
+    {
+        "country_name": "España",
+        "iso2": "ES",
+        "e164_code": 34
+    },
+    {
+        "country_name": "Sri Lanka",
+        "iso2": "LK",
+        "e164_code": 94
+    },
+    {
+        "country_name": "Sudán",
+        "iso2": "SD",
+        "e164_code": 249
+    },
+    {
+        "country_name": "Surinam",
+        "iso2": "SR",
+        "e164_code": 597
+    },
+    {
+        "country_name": "Svalbard y Jan Mayen",
+        "iso2": "SJ",
+        "e164_code": 47
+    },
+    {
+        "country_name": "Suazilandia",
+        "iso2": "SZ",
+        "e164_code": 268
+    },
+    {
+        "country_name": "Suecia",
+        "iso2": "SE",
+        "e164_code": 46
+    },
+    {
+        "country_name": "Suiza",
+        "iso2": "CH",
+        "e164_code": 41
+    },
+    {
+        "country_name": "Siria",
+        "iso2": "SY",
+        "e164_code": 963
+    },
+    {
+        "country_name": "Taiwán",
+        "iso2": "TW",
+        "e164_code": 886
+    },
+    {
+        "country_name": "Tayikistán",
+        "iso2": "TJ",
+        "e164_code": 992
+    },
+    {
+        "country_name": "Tanzania",
+        "iso2": "TZ",
+        "e164_code": 255
+    },
+    {
+        "country_name": "Tailandia",
+        "iso2": "TH",
+        "e164_code": 66
+    },
+    {
+        "country_name": "Togo",
+        "iso2": "TG",
+        "e164_code": 228
+    },
+    {
+        "country_name": "Tokelau",
+        "iso2": "TK",
+        "e164_code": 690
+    },
+    {
+        "country_name": "Tonga",
+        "iso2": "TO",
+        "e164_code": 676
+    },
+    {
+        "country_name": "Trinidad y Tobago",
+        "iso2": "TT",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Túnez",
+        "iso2": "TN",
+        "e164_code": 216
+    },
+    {
+        "country_name": "Turquía",
+        "iso2": "TR",
+        "e164_code": 90
+    },
+    {
+        "country_name": "Turkmenistán",
+        "iso2": "TM",
+        "e164_code": 993
+    },
+    {
+        "country_name": "Islas Turcas y Caicos",
+        "iso2": "TC",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Tuvalu",
+        "iso2": "TV",
+        "e164_code": 688
+    },
+    {
+        "country_name": "Islas Vírgenes de los EE. UU.",
+        "iso2": "VI",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Uganda",
+        "iso2": "UG",
+        "e164_code": 256
+    },
+    {
+        "country_name": "Ucrania",
+        "iso2": "UA",
+        "e164_code": 380
+    },
+    {
+        "country_name": "Emiratos Árabes Unidos",
+        "iso2": "AE",
+        "e164_code": 971
+    },
+    {
+        "country_name": "Reino Unido",
+        "iso2": "GB",
+        "e164_code": 44
+    },
+    {
+        "country_name": "Estados Unidos",
+        "iso2": "US",
+        "e164_code": 1
+    },
+    {
+        "country_name": "Uruguay",
+        "iso2": "UY",
+        "e164_code": 598
+    },
+    {
+        "country_name": "Uzbekistán",
+        "iso2": "UZ",
+        "e164_code": 998
+    },
+    {
+        "country_name": "Vanuatu",
+        "iso2": "VU",
+        "e164_code": 678
+    },
+    {
+        "country_name": "Vaticano",
+        "iso2": "VA",
+        "e164_code": 39
+    },
+    {
+        "country_name": "Venezuela",
+        "iso2": "VE",
+        "e164_code": 58
+    },
+    {
+        "country_name": "Vietnam",
+        "iso2": "VN",
+        "e164_code": 84
+    },
+    {
+        "country_name": "Wallis y Futuna",
+        "iso2": "WF",
+        "e164_code": 681
+    },
+    {
+        "country_name": "Sáhara Occidental",
+        "iso2": "EH",
+        "e164_code": 212
+    },
+    {
+        "country_name": "Yemen",
+        "iso2": "YE",
+        "e164_code": 967
+    },
+    {
+        "country_name": "Zambia",
+        "iso2": "ZM",
+        "e164_code": 260
+    },
+    {
+        "country_name": "Zimbabue",
+        "iso2": "ZW",
+        "e164_code": 263
+    }
+  ]
+  

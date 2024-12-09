@@ -1,0 +1,25 @@
+{
+  "name": "react-native-country-iso-selector",
+  "version": "1.0.31",
+  "description": "Una librería de React Native que proporciona un selector de países con códigos ISO, banderas y códigos telefónicos internacionales, compatible con aplicaciones móviles y web, y personalizable para adaptarse al diseño de tu aplicación. La presentación es totalmente personalizable como incluirlo en un popover, modal, view, etc.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.64.0 || ^0.72.3"
+  },
+  "keywords": [],
+  "author": "Hesler Dennis",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-native": "^0.73.0"
+  },
+  "files": [
+    "src",
+    "screenshots"
+  ]
+}
