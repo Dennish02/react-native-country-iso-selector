@@ -20,7 +20,7 @@ yarn add react-native-country-iso-selector
 
 Example using in popover component
 
-![alt text](./screenshots/image.png)
+![alt text](https://github.com/Dennish02/react-native-country-iso-selector/raw/main/screenshots/image.png)
 
 
 ## Usage
