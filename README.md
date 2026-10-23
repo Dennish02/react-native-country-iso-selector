@@ -2,6 +2,12 @@
 
 `react-native-country-iso-selector` is a React Native component library that provides a country selector with ISO codes and flags.
 
+## Requirements
+
+- Node.js >= 22.13 (see `.nvmrc`)
+- React >= 18.2
+- React Native >= 0.71 (the component uses the `gap` style property and `Pressable` hover events)
+
 ## Installation
 
 To install the library, use npm or yarn:
@@ -61,6 +67,13 @@ export default App;
 - `setCountry`: Function to set the selected country.
 - `placeholder`: Placeholder text for the search input.
 - `leftComponent`: Custom component to display on the left side of the search input.
+- `stylesText`: Custom style for the input and item text.
+- `placeholderColor`: Placeholder text color.
+- `callbackOnSelect`: Called with the selected country after `setCountry`.
+- `hoverColor`: Background color for pressed/hovered items.
+- `itemStyle`: Custom style for each list item.
+- `listEmptyComponent`: Component rendered when the list is empty.
+- `lng`: Language of the country names, `'es'` (default) or `'en'`.
 
 ### SelectedCountryDisplay
 
@@ -70,6 +83,7 @@ export default App;
 - `styleFlag`: Custom style for the flag image.
 - `iconSize`: Size of the chevron icon.
 - `iconColor`: Color of the chevron icon.
+- `iconRight`: Component rendered to the right of the flag (e.g. a chevron icon).
 
 ## Interfaces
 
@@ -90,6 +104,13 @@ interface CountrySelectorProps {
     setCountry: (country: Country) => void;
     placeholder: string;
     leftComponent: React.ReactNode;
+    stylesText?: StyleProp<TextStyle>;
+    placeholderColor?: string;
+    callbackOnSelect?: (country?: Country) => void;
+    hoverColor?: string;
+    itemStyle?: StyleProp<ViewStyle>;
+    listEmptyComponent?: React.ReactElement;
+    lng?: 'es' | 'en';
 }
 ```
 
@@ -103,7 +124,16 @@ interface SelectedCountryDisplayProps {
     styleFlag?: StyleProp<ImageStyle>;
     iconSize?: number;
     iconColor?: string;
+    iconRight: React.ReactNode;
 }
+```
+
+## Development
+
+```bash
+npm ci
+npm run typecheck   # type-check the sources
+npm run audit       # fail on high/critical vulnerabilities
 ```
 
 ## License

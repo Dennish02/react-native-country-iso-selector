@@ -17,7 +17,7 @@ const CountrySelector: React.FC<CountrySelectorProps> = ({ setCountry, placehold
     /* Fetch data from the countrycode.json file */
     setCountrys(countryData);
 
-   },[countryCodeEs , countryCodeEn])
+   },[lng])
 
   const handleSelectCountry = (selectedCountry: Country) => {
     setCountry(selectedCountry);
